@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"simulation/bean"
+	
 	"simulation/database"
 	util "simulation/utils"
 	"time"
